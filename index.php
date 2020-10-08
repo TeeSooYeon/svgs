@@ -134,12 +134,6 @@
                   <rect y="210" fill="#00bfff" height="90" width="200"/>
                   <polygon points="0,210 65,100 120,210" fill="#868e96" stroke-width="2" stroke="null"/>
                   <polygon points="65,210 130,150 200,210" fill="#adb5bd" stroke-width="2" stroke="null"/>
-                  <line x1="0" y1="120" x2="60" y2="120" stroke-width="2" stroke="#434c5e"/>
-                  <line x1="0" y1="135" x2="60" y2="135" stroke-width="2" stroke="#434c5e"/>
-                  <line x1="0" y1="150" x2="60" y2="150" stroke-width="2" stroke="#434c5e"/>
-                  <line x1="0" y1="165" x2="60" y2="165" stroke-width="2" stroke="#434c5e"/>
-                  <line x1="0" y1="180" x2="60" y2="180" stroke-width="2" stroke="#434c5e"/>
-                  <line x1="0" y1="195" x2="60" y2="195" stroke-width="2" stroke="#434c5e"/>
                   <line x1="0" y1="210" x2="200" y2="210" stroke-width="10" stroke="#f0e68c"/>
                   <polyline points="-5,290 20,270 50,290 80,270 110,290 140,270 170,290 200,270" style="fill:#00bfff;stroke:white;stroke-width:5"/>
                   <polyline points="-5,250 20,230 50,250 80,230 110,250 140,230 170,250 200,230" style="fill:#00bfff;stroke:white;stroke-width:5"/>
